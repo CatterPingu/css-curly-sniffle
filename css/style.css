@@ -1,18 +1,8 @@
-body{
-    font-size: 22px;
-    font-family: Arial,Helvetica,sans-serif;
-    line-height: 1.5;
-    background-color: #FFA0AC;
-}
-
 h1{
-    color: rgba(182, 23, 75);
+    border: 2px dashed palegoldenrod;
+    width: 50%;
 }
 
 p{
-    color: rgb(77, 144, 120);
-}
-
-h2{
-    color: rgb(219, 244, 167);
+    font-size: 2rem;
 }
