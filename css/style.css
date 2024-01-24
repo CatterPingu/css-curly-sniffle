@@ -6,12 +6,14 @@
 
 
 .container{
-    border: 2px dashed palegoldenrod;
+    border: 20px double palegoldenrod;
+    border-top-style: wave;
     width: 50%;
     font-size: 1.5rem;
     padding: 1.5rem;
     margin: 1.5em 2em;
-
+    outline: 5px paleturquoise;
+    outline-offset: -20px;
 }
 
 
