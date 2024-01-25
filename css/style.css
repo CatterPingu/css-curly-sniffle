@@ -1,35 +1,19 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: content-box;
-}
 
 
-.container{
-    border: 20px double palegoldenrod;
-    border-top-style: wave;
-    width: 50%;
-    font-size: 1.5rem;
-    padding: 1.5rem;
-    margin: 1.5em 2em;
-    outline: 5px paleturquoise;
-    outline-offset: -20px;
-}
-
-.circle{
-    margin: 3em auto;
-    background-color: gold;
-    width: 100px;
-    height: 100px;
-    border: 2px solid #0000;
-    border-radius: 50px;
-    outline: 2px solid red;
-    outline-offset: 0.25rem;
+body{
+    padding: 10%;
+    font-size: 2rem;
 }
 
 
 
+/*input,button{*/
+/*    font: inherit;*/
+/*}*/
 
+p{
+    text-decoration: line-through;
+}
 
 
 
