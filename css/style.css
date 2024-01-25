@@ -12,7 +12,7 @@ body{
 /*}*/
 
 p{
-    text-decoration: line-through;
+    text-transform: lowercase;
 }
 
 
